@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ArrayTaskMinMax\ArrayTaskMinMax\bin\Debug\net6.0\ArrayTaskMinMax.exe
+C:\Users\User\Desktop\ArrayTaskMinMax\ArrayTaskMinMax\bin\Debug\net6.0\ArrayTaskMinMax.deps.json
+C:\Users\User\Desktop\ArrayTaskMinMax\ArrayTaskMinMax\bin\Debug\net6.0\ArrayTaskMinMax.runtimeconfig.json
+C:\Users\User\Desktop\ArrayTaskMinMax\ArrayTaskMinMax\bin\Debug\net6.0\ArrayTaskMinMax.dll
+C:\Users\User\Desktop\ArrayTaskMinMax\ArrayTaskMinMax\bin\Debug\net6.0\ArrayTaskMinMax.pdb
+C:\Users\User\Desktop\ArrayTaskMinMax\ArrayTaskMinMax\obj\Debug\net6.0\ArrayTaskMinMax.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ArrayTaskMinMax\ArrayTaskMinMax\obj\Debug\net6.0\ArrayTaskMinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ArrayTaskMinMax\ArrayTaskMinMax\obj\Debug\net6.0\ArrayTaskMinMax.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ArrayTaskMinMax\ArrayTaskMinMax\obj\Debug\net6.0\ArrayTaskMinMax.AssemblyInfo.cs
+C:\Users\User\Desktop\ArrayTaskMinMax\ArrayTaskMinMax\obj\Debug\net6.0\ArrayTaskMinMax.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ArrayTaskMinMax\ArrayTaskMinMax\obj\Debug\net6.0\ArrayTaskMinMax.dll
+C:\Users\User\Desktop\ArrayTaskMinMax\ArrayTaskMinMax\obj\Debug\net6.0\refint\ArrayTaskMinMax.dll
+C:\Users\User\Desktop\ArrayTaskMinMax\ArrayTaskMinMax\obj\Debug\net6.0\ArrayTaskMinMax.pdb
+C:\Users\User\Desktop\ArrayTaskMinMax\ArrayTaskMinMax\obj\Debug\net6.0\ArrayTaskMinMax.genruntimeconfig.cache
+C:\Users\User\Desktop\ArrayTaskMinMax\ArrayTaskMinMax\obj\Debug\net6.0\ref\ArrayTaskMinMax.dll
